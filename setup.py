@@ -28,6 +28,6 @@ setup(
     author_email='gothness@ymail.com',
     description='Client for MetaTrader 5',
     install_requires=[
-        'Cython==0.28.5',
+        'Cython==0.29.33',
     ],
 )
